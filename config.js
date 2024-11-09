@@ -81,7 +81,7 @@ module.exports = {
 
 
   errorChat : process.env.ERROR_CHAT || "",
-  KOYEB_API : process.env.KOYEB_API  || "false",
+  KOYEB_API : process.env.KOYEB_API  || "yslh307ejym2auapra5q08prludsbdg0f5iotsvoqb1am6ila3y0f9nyr4uyp0cw",
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "yepeTQaFk7r9ymusihgXYvdN",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
